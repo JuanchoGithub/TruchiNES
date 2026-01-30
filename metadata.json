@@ -1,0 +1,5 @@
+{
+  "name": "TruchiNES",
+  "description": "A high-performance NES emulator for the browser. Features smooth gameplay, improved CRT filters, and keyboard support.",
+  "requestFramePermissions": []
+}
